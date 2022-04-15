@@ -1,0 +1,17 @@
+D:\MITT各种作业\SD-320 Calculator\CalculatorApp\CalculatorApp\bin\Debug\net6.0-windows\CalculatorApp.exe
+D:\MITT各种作业\SD-320 Calculator\CalculatorApp\CalculatorApp\bin\Debug\net6.0-windows\CalculatorApp.deps.json
+D:\MITT各种作业\SD-320 Calculator\CalculatorApp\CalculatorApp\bin\Debug\net6.0-windows\CalculatorApp.runtimeconfig.json
+D:\MITT各种作业\SD-320 Calculator\CalculatorApp\CalculatorApp\bin\Debug\net6.0-windows\CalculatorApp.dll
+D:\MITT各种作业\SD-320 Calculator\CalculatorApp\CalculatorApp\bin\Debug\net6.0-windows\ref\CalculatorApp.dll
+D:\MITT各种作业\SD-320 Calculator\CalculatorApp\CalculatorApp\bin\Debug\net6.0-windows\CalculatorApp.pdb
+D:\MITT各种作业\SD-320 Calculator\CalculatorApp\CalculatorApp\obj\Debug\net6.0-windows\CalculatorApp.csproj.AssemblyReference.cache
+D:\MITT各种作业\SD-320 Calculator\CalculatorApp\CalculatorApp\obj\Debug\net6.0-windows\CalculatorApp.csproj.GenerateResource.cache
+D:\MITT各种作业\SD-320 Calculator\CalculatorApp\CalculatorApp\obj\Debug\net6.0-windows\CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\MITT各种作业\SD-320 Calculator\CalculatorApp\CalculatorApp\obj\Debug\net6.0-windows\CalculatorApp.AssemblyInfoInputs.cache
+D:\MITT各种作业\SD-320 Calculator\CalculatorApp\CalculatorApp\obj\Debug\net6.0-windows\CalculatorApp.AssemblyInfo.cs
+D:\MITT各种作业\SD-320 Calculator\CalculatorApp\CalculatorApp\obj\Debug\net6.0-windows\CalculatorApp.csproj.CoreCompileInputs.cache
+D:\MITT各种作业\SD-320 Calculator\CalculatorApp\CalculatorApp\obj\Debug\net6.0-windows\CalculatorApp.dll
+D:\MITT各种作业\SD-320 Calculator\CalculatorApp\CalculatorApp\obj\Debug\net6.0-windows\ref\CalculatorApp.dll
+D:\MITT各种作业\SD-320 Calculator\CalculatorApp\CalculatorApp\obj\Debug\net6.0-windows\CalculatorApp.pdb
+D:\MITT各种作业\SD-320 Calculator\CalculatorApp\CalculatorApp\obj\Debug\net6.0-windows\CalculatorApp.genruntimeconfig.cache
+D:\MITT各种作业\SD-320 Calculator\CalculatorApp\CalculatorApp\obj\Debug\net6.0-windows\CalculatorApp.Calculator.resources
